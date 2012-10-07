@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>barn2-black.png</file>
+    </qresource>
+</RCC>
